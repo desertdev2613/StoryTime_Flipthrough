@@ -13,4 +13,5 @@ _______________________________
 4. JS 
 5. Node.js 
 6. Express 
-7. Nodemon 
+7. Handlebars
+8. Nodemon 
