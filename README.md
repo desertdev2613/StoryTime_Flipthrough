@@ -16,4 +16,4 @@ _______________________________
 7. Handlebars
 8. Nodemon 
 
-<img src="./images/preview.png" alt="preview">
+<img src="./storyTime/public/images/preview.png" alt="preview">
